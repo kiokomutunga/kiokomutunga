@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiokomutunga" alt="kiokomutunga" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iconiclegend" target="blank"><img src="https://img.shields.io/twitter/follow/L48650Legend?logo=twitter&style=for-the-badge" alt="iconiclegend" /></a> </p>
+<p align="left"> <a href="https://twitter.com/L48650Legend" target="blank"><img src="https://img.shields.io/twitter/follow/L48650Legend?logo=twitter&style=for-the-badge" alt="iconiclegend" /></a> </p>
 
 - 🔭 I’m currently working on **Timetable management system**
 
