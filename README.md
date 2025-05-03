@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiokomutunga</h1>
-<h3 align="center">Passionate developer with a focus on building scalable web applications and solving real-world problems with clean, efficient code. Open-source enthusiast. Currently working with Django, React, and MySQL</h3>
+<h3 align="center">Passionate developer with a focus on building scalable web applications and solving real-world problems with clean, efficient code. Open-source enthusiast. Currently working with Django, React,javascript, Next js, nodejs,Pythonand MySQL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiokomutunga&label=Profile%20views&color=0e75b6&style=flat" alt="kiokomutunga" /> </p>
 
