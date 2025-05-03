@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiokomutunga" alt="kiokomutunga" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iconiclegend" target="blank"><img src="https://img.shields.io/twitter/follow/iconiclegend?logo=twitter&style=for-the-badge" alt="iconiclegend" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iconiclegend" target="blank"><img src="https://img.shields.io/twitter/follow/L48650Legend?logo=twitter&style=for-the-badge" alt="iconiclegend" /></a> </p>
 
 - 🔭 I’m currently working on **Timetable management system**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/L48650Legend" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iconiclegend" height="30" width="40" /></a>
-<a href="https://instagram.com/uknownkioko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uknownkioko" height="30" width="40" /></a>
+<a href="https://www.instagram.com/underrated.kioko?igsh=c3lpZnc0enN1bmw1&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uknownkioko" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
