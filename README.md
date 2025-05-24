@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **Kiokomutungapp@gmail.com**
+-  💻 see my work **https://kiokomutunga.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
