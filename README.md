@@ -1,6 +1,6 @@
 <!-- Hero Banner Image -->
 <p align="center">
-  <img src="https://chatgpt.com/s/m_684a0bf53a70819194a6ed9e328983e4" alt="Hero Banner" style="width:100%; border-radius:16px;" />
+  <img src="https://i.postimg.cc/sDDxHPZ7/Chat-GPT-Image-Jun-12-2025-02-06-38-AM.png" alt="Hero Banner" style="width:100%; border-radius:16px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kiokomutunga</h1>
