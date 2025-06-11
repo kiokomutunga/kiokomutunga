@@ -1,3 +1,8 @@
+<!-- Hero Banner Image -->
+<p align="center">
+  <img src="https://chatgpt.com/s/m_684a0bf53a70819194a6ed9e328983e4" alt="Hero Banner" style="width:100%; border-radius:16px;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Kiokomutunga</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | Building Scalable Web Apps | Clean, Efficient Code</h3>
 
@@ -17,6 +22,11 @@
   </a>
 </p>
 
+<p align="center">
+  <!-- Dark Mode Toggle Badge -->
+  <img src="https://img.shields.io/badge/MODE-DARK⚫️🌙-glass?style=for-the-badge&logo=github&logoColor=white&color=121212&labelColor=2c2c2c" alt="Dark Mode Toggle"/>
+</p>
+
 ---
 
 ### 🔥 About Me
@@ -25,6 +35,35 @@
 - 🌱 I’m currently learning **React Native**
 - 📫 Reach me at: **Kiokomutungapp@gmail.com**
 - 🌐 Portfolio: [**kiokomutunga.netlify.app**](https://kiokomutunga.netlify.app)
+
+---
+
+### 📰 Latest Blog Posts
+
+- [How I Built a Scalable Chama App](#)
+- [React Native for Beginners – My Journey](#)
+- [5 Mistakes I Made as a Junior Dev](#)
+
+---
+
+### 🎬 Latest YouTube Videos
+
+- [My Portfolio Walkthrough](#)
+- [Django vs Express – Which Backend to Choose?](#)
+- [React Native Setup in 10 Minutes](#)
+
+---
+
+### 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/kiokomutunga/digital-chama-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiokomutunga&repo=digital-chama-app&theme=radical" />
+  </a>
+  <a href="https://github.com/kiokomutunga/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiokomutunga&repo=portfolio&theme=radical" />
+  </a>
+</p>
 
 ---
 
@@ -44,54 +83,7 @@
 ### 💻 Languages & Tools
 
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40" style="background:white; border-radius:5px; padding:2px;" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,nodejs,express,django,python,typescript,javascript,mysql,mongodb,html,css,bootstrap,php,java&perline=8" />
 </p>
 
 ---
