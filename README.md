@@ -1,6 +1,6 @@
 <!-- Hero Banner Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/sDDxHPZ7/Chat-GPT-Image-Jun-12-2025-02-06-38-AM.png" alt="Hero Banner" style="width:100%; border-radius:16px;" />
+  <img src="https://i.postimg.cc/sDDxHPZ7/Chat-GPT-Image-Jun-12-2025-02-06-38-AM.png" alt="Hero Banner" width="80%" style="border-radius:16px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Kiokomutunga</h1>
@@ -24,7 +24,7 @@
 
 <p align="center">
   <!-- Dark Mode Toggle Badge -->
-  <img src="https://img.shields.io/badge/MODE-DARK⚫️🌙-glass?style=for-the-badge&logo=github&logoColor=white&color=121212&labelColor=2c2c2c" alt="Dark Mode Toggle"/>
+  <img src="https://img.shields.io/badge/MODE-DARK⚫️🌙-121212?style=for-the-badge&logo=github&logoColor=white" alt="Dark Mode Toggle"/>
 </p>
 
 ---
