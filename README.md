@@ -29,7 +29,7 @@
 
 ---
 
-### 🔥 About Me
+### 🔥 About
 
 - 🔭 I’m currently working on a **Digital Chama App**
 - 🌱 I’m currently learning **React Native**
