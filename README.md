@@ -40,7 +40,7 @@
 
 ### 📰 Latest Blog Posts
 
-- [How I Built a Scalable Chama App](#)
+
 - [React Native for Beginners – My Journey](#)
 - [5 Mistakes I Made as a Junior Dev](#)
 
