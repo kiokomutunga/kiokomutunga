@@ -3,7 +3,7 @@
   <img src="https://i.postimg.cc/sDDxHPZ7/Chat-GPT-Image-Jun-12-2025-02-06-38-AM.png" alt="Hero Banner" width="80%" style="border-radius:16px;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Kiokomutunga</h1>
+<h1 align="center">Hi 👋, I'm Kioko mutunga</h1>
 <h3 align="center">🚀 Passionate Developer | Building Scalable Web Apps, Automations | Clean, Efficient Code</h3>
 
 <p align="center">
