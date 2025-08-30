@@ -32,7 +32,7 @@
 ### 🔥 About me
 
 - 🔭 I’m currently working on a **Ecommerce Website**
-- 🌱 I’m currently learning **React Native and SEO optimization**
+- 🌱 I’m currently learning **React Native, TypeScript and SEO optimization**
 - 📫 Reach me at: **Kiokomutungapp@gmail.com**
 - 🌐 Portfolio: [**kiokomutunga.netlify.app**](https://kiokomutunga.netlify.app)
 
