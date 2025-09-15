@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kioko Mutunga</h1>
-<h3 align="center">🚀 Passionate Developer | Building Scalable Web Apps, Automations | Clean, Efficient Code Generative Ai</h3>
+<h3 align="center">🚀 Passionate Developer | Building Scalable Web Apps, Automations | Clean, Efficient Code | Generative Ai</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiokomutunga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
