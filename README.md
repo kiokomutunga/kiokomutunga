@@ -8,7 +8,7 @@
 
 ---
 
-### 🔥 About me
+### About 
 
 -  I’m currently working on a **Ecommerce Website limpopo stores**
 -  I’m currently learning **React Native, TypeScript and SEO optimization**
