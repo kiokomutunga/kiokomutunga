@@ -11,7 +11,6 @@
 ### About 
 
 -  I’m currently working on a **Ecommerce Website limpopo stores**
--  I’m currently learning **React Native, TypeScript and SEO optimization**
 -  Email: **Kiokomutungapp@gmail.com**
 -  Portfolio: [**kiokomutunga.netlify.app**](https://kiokomutunga.netlify.app)
 
