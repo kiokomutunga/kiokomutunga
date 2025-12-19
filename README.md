@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Kioko Mutunga</h1>
+<h1 align="center">Kioko Mutunga</h1>
 <h3 align="center">  Developer | Web Apps, Automations | Efficient Code | Generative Ai</h3>
 
 <p align="center">
