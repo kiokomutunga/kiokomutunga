@@ -14,7 +14,7 @@
 -  Email: **Kiokomutungapp@gmail.com**
 -  Portfolio: [**kiokomutunga.netlify.app**](https://kiokomutunga.netlify.app)
 
-###  Connect With Me
+###  Lets connect
 
 <p align="left">
   <a href="https://twitter.com/L48650Legend" target="_blank">
