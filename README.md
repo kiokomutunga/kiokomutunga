@@ -10,7 +10,7 @@
 
 ### About 
 
--  current working on a **Ecommerce Website limpopo stores**
+-  current working on a **Ecommerce Website**
 -  Email: **Kiokomutungapp@gmail.com**
 -  Portfolio: [**kiokomutunga.netlify.app**](https://kiokomutunga.netlify.app)
 
