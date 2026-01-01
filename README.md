@@ -1,4 +1,4 @@
-<h1 align="center">Kioko Mutunga</h1>
+<h1 align="center">Kioko Mutung</h1>
 <h3 align="center">Software  Developer | Web Apps | Automations | Efficient | Generative Ai</h3>
 
 <p align="center">
