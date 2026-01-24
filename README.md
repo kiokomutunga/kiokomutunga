@@ -40,7 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kiokomutunga&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-  ![](https://nirzak-streak-stats.vercel.app/?user=kiokomutunga&theme=panda&hide_border=false)<br/>
 
 
 
