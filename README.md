@@ -9,7 +9,7 @@
 ---
 
 ### About 
--  Email: **Kiokomutungapp@gmail.com**
+-  Email: **Kiokomutungap@gmail.com**
 -  Portfolio: [**kiokomutunga.netlify.app**](https://kiokomutunga.netlify.app)
 
 ###  Lets connect
